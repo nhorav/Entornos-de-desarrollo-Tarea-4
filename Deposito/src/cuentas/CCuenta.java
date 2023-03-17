@@ -1,8 +1,8 @@
-package dam_ed04_actividad;
+package cuentas;
 
 
 /**
- * Clase que representa una cuenta bancaria.
+ * Clase que representa uma cuenta bancaria.
  */
 public class CCuenta {
 
@@ -23,7 +23,7 @@ public class CCuenta {
      * @param nom nombre del titular de la cuenta.
      * @param cue número de cuenta.
      * @param sal saldo inicial de la cuenta.
-     * @param tipo tipo de interés de la cuenta.
+     * @param tipo tipo de interés de la cuneta.
      */
     public CCuenta(String nom, String cue, double sal, double tipo) {
         nombre = nom;
